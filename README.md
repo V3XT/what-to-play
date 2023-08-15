@@ -4,7 +4,7 @@ A simple web app for board gamers to help them plan their gaming nights and futu
 
 Add the BoardGameGeek usernames for all the people in your gaming group and it will create a unified and filterable collection of games. Filter based on games to play or buy (uses player's wishlists), number of players, and game play time.
 
-**Demo:** https://mcgraths.github.io/what-to-play/
+**Demo:** https://V3xt.github.io/what-to-play/
 
 ## To Install
 
